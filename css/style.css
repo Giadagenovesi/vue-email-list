@@ -1,0 +1,40 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+}
+body {
+    background-color: #08c4b2;
+}
+h1 {
+    color: #166cb3;
+    font-size: 3rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    margin: 100px auto;
+    padding: 1rem 2rem;
+    height: 500px;
+    width: 800px;
+    background-image: url(../img/email-marketing-featured-image.svg);
+}
+
+.container li {
+    padding: .8rem;
+}
+
+.btn {
+    position: absolute;
+    top: 5px;
+    left: calc(50% - 90px);
+    border-radius: 5px;
+    padding: .6rem;
+    background-color: #56adf5;
+}
