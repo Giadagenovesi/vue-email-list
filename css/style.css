@@ -4,12 +4,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 img {
     max-width: 100%;
 }
+
 body {
     background-color: #08c4b2;
 }
+
 h1 {
     color: #166cb3;
     font-size: 3rem;
